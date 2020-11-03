@@ -1,2 +1,2 @@
 # Mis_Practicas
-Practicas de Computación I
+Practicas de Computación de Iker Díaz Hernández
